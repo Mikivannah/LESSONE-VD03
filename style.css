@@ -1,5 +1,12 @@
-,caption1 {
 
-    color: red;
-    background-color: yellow;
+body {
+
+    background-image: url('sky.jpg');
+    background-size: cover;
+    background-position: center;
+
+}
+
+p {
+  color: green;
 }
